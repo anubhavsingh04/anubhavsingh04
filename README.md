@@ -28,7 +28,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=anubhavsingh04" height="150" alt="languages graph"  />
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?theme=github-dark-blue&user=anubhavsingh04&" alt="anubhavsingh04" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?theme=github-dark-blue&user=anubhavsingh04" alt="anubhavsingh04" /></p>
 
 </div>
 
