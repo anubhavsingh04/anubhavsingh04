@@ -3,21 +3,27 @@
 ###
 
 <div align="left">
+  
   <a href="https://www.linkedin.com/in/anubhavsingh07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-319ed6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/>
   </a>
-  <a href="anubhavsinghnit5132@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
+ 
   <a href="https://www.instagram.com/anubhav_singh_07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-e01f69?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"  />
   </a>
+  
   <a href="https://www.facebook.com/people/Anubhav-Singh-Rajput/100058448296720/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook logo">
   </a>
+  
   <a href="https://twitter.com/anubhavsingh04" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo"  />
   </a>
+  
+  <a href="https://leetcode.com/anubhavsingh11/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-f0b216?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode logo" />
+  </a>
+  
 </div>
 
 ###
