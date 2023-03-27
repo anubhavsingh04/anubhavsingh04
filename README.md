@@ -5,7 +5,7 @@
 <div align="left">
   
   <a href="https://www.linkedin.com/in/anubhavsingh07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-319ed6?style=for-the-badge&logo=linkedin&logoColor=white" height="28" width="100" alt="linkedin logo"/ target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-319ed6?style=for-the-badge&logo=linkedin&logoColor=white" height="28" width="100" target="_blank"/>
   </a>
  
   <a href="https://www.instagram.com/anubhav_singh_07/" target="_blank">
