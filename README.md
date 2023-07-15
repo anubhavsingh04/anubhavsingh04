@@ -60,5 +60,3 @@
 </div>
 
 ###
-
- ![snake gif](https://github.com/anubhavsingh04/anubhavsingh04/blob/output/github-contribution-grid-snake.gif)
