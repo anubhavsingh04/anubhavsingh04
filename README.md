@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋I am Anubhav singh 3rd year CSE Undergrad, from National institute of technology, Agartala</h2>
+<h2 align="left">Hi 👋I am Anubhav singh Final year CSE Undergrad, from National institute of technology, Agartala</h2>
 
 ###
 
